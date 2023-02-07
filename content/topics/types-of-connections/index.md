@@ -1,24 +1,25 @@
 ---
 title: Types of internet connections
+
 keywords: internet connections, types of internet connections, internet connections explained
+
 description: A collection of informational pieces that explain different types of internet connections.
-menu:
-  main:
-    parent: topics
-    name: Types of internet connections
----
+
+parent: topics
+
+name: Types of internet connections
+
++---
 
 # Dial-up
 
 ## What is a dial-up connection?
 
-According to [Techopedia](https://www.techopedia.com/definition/25953/dial-up-connection), a dial-up connection is established when two or more communication devices use a public switched telephone network (PSTN) to connect to an Internet Service Provider (ISP) at Data Transfer Rates (DTR) of 56kbps.
+According to , a dial-up connection is established when two or more communication devices use a public switched telephone network (PSTN) to connect to an Internet Service Provider (ISP) at Data Transfer Rates (DTR) of 56kbps.
 
-This means your computer connects to an active phone line and dials a number in order to connect to your ISP via an analog modem.
+A dial-up connection is a type of internet connection that requires a user to dial a number on a telephone line using an analog modem. The connection is established through a telephone line and operates at a relatively slow speed, typically 56 kbps. The downside of this type of connection is that the telephone line cannot be used for making phone calls while the internet connection is active.
 
-The phone line cannot be in use during the connection or when making the connection.
-
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tech-faq.com%2Fdial-up-connection.html&psig=AOvVaw1aJbdUbuhccAm5R9-EBUw_&ust=1665823821490000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIjBpLur3_oCFQAAAAAdAAAAABAE)
+![Dial-up connect page](../types-of-connections/dialup.jpg)
 
 _Listen to the sound of a dial-up connection:_
 
@@ -26,6 +27,8 @@ _Listen to the sound of a dial-up connection:_
 
 ### More Info
 
+[Wikipedia](https://en.wikipedia.org/wiki/Dial-up_Internet_access)
+[Techopedia](https://www.techopedia.com/definition/25953/dial-up-connection)
 [Computer Hope: Dial-up](https://www.computerhope.com/jargon/d/dialup.htm)
 
 # Broadband
